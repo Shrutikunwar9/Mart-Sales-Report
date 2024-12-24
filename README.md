@@ -6,7 +6,6 @@ The objective of this project is to analyze the sales and order data of Vrinda S
 
 ## Dataset used
 - <a href="https://github.com/Shrutikunwar9/Mart-Sales-Report/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
-Here are 10 potential questions (KPIs) that align with the analysis provided in your project:
 
 ## Key Performance Indicators (KPIs):
  - What is the trend in sales versus orders over time?
