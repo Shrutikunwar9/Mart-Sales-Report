@@ -9,17 +9,15 @@ The objective of this project is to analyze the sales and order data of Vrinda S
 Here are 10 potential questions (KPIs) that align with the analysis provided in your project:
 
 ## Key Performance Indicators (KPIs):
-
-
- -What is the trend in sales versus orders over time?
- -What percentage of total sales is contributed by male vs. female customers?
- -Which states contribute the most to overall sales?
- -What are the most common order status, and how do they impact revenue?
- -How do sales vary across different age groups?
- -Which sales channels (online/offline) are the most effective?
- -What is the average order value (AOV) across different customer segments?
- -What are the peak sales periods during the year or month?
- -How does the sales performance compare between categories like men’s vs. women’s products?
+ - What is the trend in sales versus orders over time?
+ - What percentage of total sales is contributed by male vs. female customers?
+ - Which states contribute the most to overall sales?
+ - What are the most common order status, and how do they impact revenue?
+ - How do sales vary across different age groups?
+ - Which sales channels (online/offline) are the most effective?
+ - What is the average order value (AOV) across different customer segments?
+ - What are the peak sales periods during the year or month?
+ - How does the sales performance compare between categories like men’s vs. women’s products?
     
 - Dahboard Interaction <a href="https://github.com/Shrutikunwar9/Mart-Sales-Report/blob/main/Screenshot%202024-12-24%20190651.png">View Dashboard</a>
 
