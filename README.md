@@ -73,4 +73,4 @@ The objective of this project is to analyze the sales and order data of Vrinda S
 ## Final conclusion
 Based on the insights gathered, it is evident that Maharashtra, Karnataka, and Uttar Pradesh are key regions driving substantial revenue, with female customers contributing significantly at 64%. The alignment of peak sales with seasonal trends presents an opportunity for targeted promotional strategies to maximize revenue during these periods. Moreover, online sales channels such as Amazon, Myntra, and Flipkart have proven to be more efficient and generate higher revenue compared to offline sales channels. Product delivery efficiency is also noteworthy, with 92% of products successfully delivered. Lastly, adults, contributing 34.59%, remain the highest demographic in terms of sales. Moving forward, focusing on regional strengths, optimizing online channels, and leveraging seasonal opportunities will be crucial in driving future growth.
 
-## THANKU FOR YOUR TIME
+## THANK YOU FOR YOUR TIME
